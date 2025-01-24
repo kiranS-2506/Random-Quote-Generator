@@ -1,4 +1,4 @@
-#Random Quote Generator
+# Random Quote Generator
 
 This is a simple web application that fetches a random quote from the DummyJSON API and displays it every 5 seconds. The quote is accompanied by the author's name.
 
