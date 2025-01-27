@@ -5,7 +5,7 @@
 }
 body{
     background-color:#cccccc;
-    background-image:  radial-gradient(rgb(255, 255, 255), rgb(170, 118, 153));;
+    background-image:  radial-gradient(rgb(255, 255, 255), rgb(170, 118, 153));
     display: flex;
     flex-direction: column;
     justify-content: center;
